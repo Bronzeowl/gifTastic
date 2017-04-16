@@ -1,0 +1,33 @@
+button, div, form, input {
+	margin: 5px;
+}
+
+img {
+	max-width: 200px;
+	max-height: 200px;
+}
+
+label {
+    color: #fff;
+}
+
+.btn-default {
+    color: #000;
+}
+
+body {
+	background-image: url("../images/quote-bg-img.jpg");
+    font-family: 'Bad Script', cursive;
+}
+
+.holder {
+    float: left;
+}
+
+.jumbotron {
+    text-align: center;
+}
+
+
+
+
